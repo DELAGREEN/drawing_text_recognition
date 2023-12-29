@@ -1,0 +1,1 @@
+# drawing_text_recognition
