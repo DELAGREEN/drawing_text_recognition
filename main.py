@@ -38,7 +38,7 @@ test_pytesseract.test_pytesseract.tesseract_cmd = 'D:\\REP\projects\\drawing_tex
 
 tes_img = cv2.cvtColor(output, cv2.COLOR_BGR2RGB)
 
-print(test_pytesseract.image_to_string(tes_img, lang='Rus'))
+print(test_pytesseract.image_to_string(tes_img, lang='num'))
 #print(pytesseract.image_to_boxes(tes_img))
 cv2.imshow('Result', output)
 cv2.waitKey(0)

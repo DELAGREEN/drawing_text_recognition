@@ -1,6 +1,8 @@
 ####FOLDERS####
 tesseract
-
+images
+poppler-24.02.0
+pdf
 
 ####FILE####
 
